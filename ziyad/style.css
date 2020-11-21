@@ -1,0 +1,39 @@
+
+table, th, td {
+    border: 3px solid rgb(151, 241, 189);
+    font-size: 20px;
+  }
+a{
+  font-family: verdana;
+  font-size: 20px;
+  color: rgb(255, 250, 250);
+  border-left: 6px solid rgb(9, 12, 226);
+  background-color: rgb(97, 108, 255);
+}
+h1,h2,h3{
+    color: rgb(16, 17, 17);
+    
+}
+ .HPtitle,.SLtitle,.NStitle{
+    text-align: center;
+    color: rgb(11, 245, 186);
+    
+}
+
+.name{
+    border: 5px solid rgb(73, 190, 155);
+  border-radius: 50px;
+  text-align: center;
+  background-color:rgb(100, 116, 207)
+}
+fieldset{
+    margin: 20px;  
+}
+input[type=text],[type=number],[type=date],select,textarea{
+    width: 50%;
+    padding: 8px;
+    margin: 6px;
+}
+p{
+    text-indent: 50px    
+}
